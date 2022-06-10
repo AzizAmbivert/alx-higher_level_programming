@@ -1,5 +1,4 @@
-# 0-square_matrix_simple.py
-# Brennan D Baraban <375@holbertonschool.com>
+#!/usr/bin/python3
 
 def square_matrix_simple(matrix=[]):
     """Compute the square value of all integers of a matrix."""
