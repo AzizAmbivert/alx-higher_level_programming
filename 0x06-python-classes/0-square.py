@@ -1,7 +1,6 @@
-#!/usr/bin/python3
-"""Defines a class Square"""
+!/usr/bin/python3
+"""This is the first documentation I've written for Holberton School """
 
 class Square:
-    """Class that defines properties of square.
-    """
     pass
+s = Square()
