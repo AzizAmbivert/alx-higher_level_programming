@@ -3,4 +3,5 @@
 
 class Square:
     pass
+
 s = Square()
